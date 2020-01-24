@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background-color: red;
+}
+.App-fred {
+  background-color: red;
 }
 
 .App-logo {
