@@ -1,8 +1,7 @@
 import React from 'react';
-import './App.css';
 
-function me() {
-  return <div>Hi mom</div>
+function App() {
+  return <div className='App'>Hi mom</div>
 }
 
-export default me;
+export default App;
